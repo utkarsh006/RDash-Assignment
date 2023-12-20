@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RDash</string>
+    <string name="design_layouts">Design Layouts</string>
+    <string name="client">CLIENT </string>
+    <string name="bridgestone">Bridgestone</string>
+    <string name="pipe">|</string>
+    <string name="job_id">JOB ID</string>
+    <string name="brid">BRID1337</string>
+    <string name="section_2d">2D Layout/Adaptation</string>
+    <string name="section_3d">3D Layout/Adaptation</string>
+    <string name="section_prod">Production Files/Artworks</string>
+
+</resources>
