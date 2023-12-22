@@ -19,7 +19,7 @@ class PdfListViewModel @Inject constructor(
     private val downloader : AndroidDownloader
 ) : ViewModel() {
     private val _state = mutableStateOf(PdfListState())
-    val state: State<PdfListState> get() = _state // exposing this state to the composables
+    val state: State<PdfListState> get() = _state
 
     init {
         getPdfs("")
